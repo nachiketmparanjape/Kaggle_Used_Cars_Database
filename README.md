@@ -1,5 +1,5 @@
 # Kaggle_Used_Cars_Database
-Exploration of Used Cars' Database from Kaggle. Made exploratory analyses about various trends in sales in last 50 years.
+Exploration of Used Cars' Database from Kaggle. Made exploratory analyses about various trends in sales in last 25 years.
 
 1. Data Wrangling
 2. Visualizing different features, tuning and clearning the data accordingly
